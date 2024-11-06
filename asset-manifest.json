@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.54066b11.css",
-    "main.js": "/static/js/main.126af7ae.js",
-    "static/js/453.5057f621.chunk.js": "/static/js/453.5057f621.chunk.js",
-    "index.html": "/index.html",
-    "main.54066b11.css.map": "/static/css/main.54066b11.css.map",
-    "main.126af7ae.js.map": "/static/js/main.126af7ae.js.map",
-    "453.5057f621.chunk.js.map": "/static/js/453.5057f621.chunk.js.map"
+    "main.css": "/hiba_portfolio/static/css/main.54066b11.css",
+    "main.js": "/hiba_portfolio/static/js/main.6ec01890.js",
+    "static/js/453.5057f621.chunk.js": "/hiba_portfolio/static/js/453.5057f621.chunk.js",
+    "index.html": "/hiba_portfolio/index.html",
+    "main.54066b11.css.map": "/hiba_portfolio/static/css/main.54066b11.css.map",
+    "main.6ec01890.js.map": "/hiba_portfolio/static/js/main.6ec01890.js.map",
+    "453.5057f621.chunk.js.map": "/hiba_portfolio/static/js/453.5057f621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54066b11.css",
-    "static/js/main.126af7ae.js"
+    "static/js/main.6ec01890.js"
   ]
 }
